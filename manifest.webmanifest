@@ -1,0 +1,33 @@
+{
+  "id": "./",
+  "name": "나의 소비생활 - 영수증 소비관리",
+  "short_name": "나의 소비생활",
+  "description": "영수증으로 기록하고 연습하는 나의 소비생활",
+  "lang": "ko-KR",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#e9f0f8",
+  "theme_color": "#e8eff7",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
